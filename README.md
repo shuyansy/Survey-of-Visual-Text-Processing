@@ -120,14 +120,11 @@ This repository contains a paper collection of recent works for visual text proc
 
 
 ### Scene Text Generation
-+ [On Manipulating Scene Text in the Wild with Diffusion Models](https://arxiv.org/abs/2311.00734) (WACV2024)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.00734)
++ Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition (**2014 arxiv**) [paper](https://arxiv.org/pdf/1406.2227.pdf)
++ Synthetic data for text localisation in natural images (**2016 CVPR**) [paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Gupta_Synthetic_Data_for_CVPR_2016_paper.pdf) [paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Gupta_Synthetic_Data_for_CVPR_2016_paper.pdf) [code](https://github.com/ankush-me/SynthText)
++ Text detection in traffic informatory signs using synthetic data (**2017 ICDAR**) [paper](https://ieeexplore.ieee.org/abstract/document/8270075)
++ Verisimilar image synthesis for accurate detection and recognition of texts in scenes (**2018 ECCV**) [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf)  [code](https://github.com/GodOfSmallThings/Verisimilar-Image-Synthesis-for-Accurate-Detection-and-Recognition-of-Texts-in-Scenes)
++ Synthtiger: Synthetic text image generator towards better text recognition models (**2021 ICDAR**) [paper](https://link.springer.com/chapter/10.1007/978-3-030-86337-1_8) [code](https://github.com/clovaai/synthtiger)
++  
 
-+ [DiffUTE: Universal Text Editing Diffusion Model](https://arxiv.org/abs/2305.10825) (May, 2023)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10825)
-  [![Star](https://img.shields.io/github/stars/chenhaoxing/DiffUTE.svg?style=social&label=Star)](https://github.com/chenhaoxing/DiffUTE)
-
-+ [Improving Diffusion Models for Scene Text Editing with Dual Encoders](https://arxiv.org/abs/2304.05568) (Apr., 2023)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.05568)
-  [![Star](https://img.shields.io/github/stars/UCSB-NLP-Chang/DiffSTE.svg?style=social&label=Star)](https://github.com/UCSB-NLP-Chang/DiffSTE)
 
