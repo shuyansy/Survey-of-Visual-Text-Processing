@@ -77,6 +77,8 @@ This repository contains a paper collection of recent works for visual text proc
 + Text region conditional generative adversarial network for text concealment in the wild (2021 TCSVT) [paper](https://ieeexplore.ieee.org/abstract/document/9509541)
 + Two-Stage Seamless Text Erasing On Real-World Scene Images (2021 ICIP) [paper](https://ieeexplore.ieee.org/abstract/document/9506394)
 + Scene text removal via cascaded text stroke detection and erasing (2022 CVM) [paper](https://link.springer.com/content/pdf/10.1007/s41095-021-0242-8.pdf)
++ Self-supervised text erasing with controllable image synthesis (2022 ACM MM) [paper](https://arxiv.org/pdf/2204.12743.pdf)
++ Multi-branch network with ensemble learning for text removal in the wild (2022 ACCV) [paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Hou_Multi-Branch_Network_with_Ensemble_Learning_for_Text_Removal_in_the_ACCV_2022_paper.pdf)
 + The Surprisingly Straightforward Scene Text Removal Method with Gated Attention and Region of Interest Generation: A Comprehensive Prominent Model Analysis (2022 ECCV) [paper](https://arxiv.org/pdf/2210.07489) [code](https://github.com/naver/garnet)
 + Don’t forget me: accurate background recovery for text removal via modeling local-global context (2022 ECCV) [paper](https://arxiv.org/pdf/2207.10273) [code](https://github.com/lcy0604/CTRNet.)
 + Psstrnet: progressive segmentation-guided scene text removal network (2022 ICME) [paper](https://arxiv.org/pdf/2306.07842)
@@ -85,6 +87,7 @@ This repository contains a paper collection of recent works for visual text proc
 + Viteraser: Harnessing the power of vision transformers for scene text removal with segmim pretraining (2023 arxiv) [paper](https://arxiv.org/pdf/2306.12106) [code](https://github.com/shannanyinxiang/ViTEraser)
 + Progressive scene text erasing with self-supervision (2023 CVIU) [paper](https://arxiv.org/pdf/2207.11469.pdf)
 + What is the Real Need for Scene Text Removal? Exploring the Background Integrity and Erasure Exhaustivity Properties (2023 TIP) [paper](https://ieeexplore.ieee.org/abstract/document/10214243) [code](https://github.com/wangyuxin87/PERT)
++ Selective scene text removal (# 2023 BMVC) [paper](https://arxiv.org/pdf/2309.00410.pdf) [code](https://github.com/mitanihayato/Selective-Scene-Text-Removal)
 
    
  
