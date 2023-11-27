@@ -6,12 +6,12 @@ The official project of paper "Delving into Text Features: A Comprehensive Revie
 This repository contains a paper collection of recent works for visual text processing tasks.
 
 ## 📖 Table of Contents 👀
-- [Text Image Super-resolution](#Text Image Super-resolution)
-- [Document Image Dewarping](#Document Image Dewarping)
-- [Text Image Denosing](#Text Image Denosing)
-- [Scene Text Removal](#Scene Text Removal)
-- [Scene Text Editing](#Scene Text Editing)
-- [Scene Text Generation](#Scene Text Generation)
+- [Text Image Super-resolution](#text-image-Super-resolution)
+- [Document Image Dewarping](#Document-Image-Dewarping)
+- [Text Image Denosing](#Text-Image-Denosing)
+- [Scene Text Removal](#Scene-Text-Removal)
+- [Scene Text Editing](#Scene-Text-Editing)
+- [Scene Text Generation](#Scene-Text-Generation)
 ##
 
 ### Text Image Super-resolution
