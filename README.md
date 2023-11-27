@@ -66,6 +66,26 @@ This repository contains a paper collection of recent works for visual text proc
 
 ### Scene Text Removal
 + Image-to-Image Translation with Conditional Adversarial Networks (2017 CVPR)  [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)
++ Scene text eraser (2017 ICDAR) [paper](https://arxiv.org/pdf/1705.02772.pdf)
++ Automatic Semantic Content Removal by Learning to Neglect (2018 BMVC) [paper](https://arxiv.org/pdf/1807.07696.pdf)
++ Ensnet: Ensconce text in the wild (2019 AAAI) [paper](https://ojs.aaai.org/index.php/AAAI/article/download/3859/3737)
++ Mtrnet: A generic scene text eraser (2019 ICDAR) [paper](https://arxiv.org/pdf/1903.04092)
++ Erasenet: End-to-end text removal in the wild (2020 TIP) [paper](https://ieeexplore.ieee.org/abstract/document/9180003) [code](https://github.com/HCIILAB/SCUT-EnsText)
++ Mtrnet++: One-stage mask-based scene text eraser (2020 CVIU) [paper](https://arxiv.org/pdf/1912.07183.pdf)
++ Erasing scene text with weak supervision (2020 WACV) [paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Zdenek_Erasing_Scene_Text_with_Weak_Supervision_WACV_2020_paper.pdf)
++ Stroke-Based Scene Text Erasing Using Synthetic Data for Training (2021 TIP) [paper](https://ieeexplore.ieee.org/abstract/document/9609970)
++ Text region conditional generative adversarial network for text concealment in the wild (2021 TCSVT) [paper](https://ieeexplore.ieee.org/abstract/document/9509541)
++ Two-Stage Seamless Text Erasing On Real-World Scene Images (2021 ICIP) [paper](https://ieeexplore.ieee.org/abstract/document/9506394)
++ Scene text removal via cascaded text stroke detection and erasing (2022 CVM) [paper](https://link.springer.com/content/pdf/10.1007/s41095-021-0242-8.pdf)
++ The Surprisingly Straightforward Scene Text Removal Method with Gated Attention and Region of Interest Generation: A Comprehensive Prominent Model Analysis (2022 ECCV) [paper](https://arxiv.org/pdf/2210.07489) [code](https://github.com/naver/garnet)
++ Don’t forget me: accurate background recovery for text removal via modeling local-global context (2022 ECCV) [paper](https://arxiv.org/pdf/2207.10273) [code](https://github.com/lcy0604/CTRNet.)
++ Psstrnet: progressive segmentation-guided scene text removal network (2022 ICME) [paper](https://arxiv.org/pdf/2306.07842)
++ Fetnet: Feature erasing and transferring network for scene text removal (2023 PR) [paper](https://arxiv.org/pdf/2306.09593)
++ Modeling stroke mask for end-to-end text erasing (2023 WACV) [paper](https://openaccess.thecvf.com/content/WACV2023/papers/Du_Modeling_Stroke_Mask_for_End-to-End_Text_Erasing_WACV_2023_paper.pdf)
++ Viteraser: Harnessing the power of vision transformers for scene text removal with segmim pretraining (2023 arxiv) [paper](https://arxiv.org/pdf/2306.12106) [code](https://github.com/shannanyinxiang/ViTEraser)
++ Progressive scene text erasing with self-supervision (2023 CVIU) [paper](https://arxiv.org/pdf/2207.11469.pdf)
++ What is the Real Need for Scene Text Removal? Exploring the Background Integrity and Erasure Exhaustivity Properties (2023 TIP) [paper](https://ieeexplore.ieee.org/abstract/document/10214243) [code](https://github.com/wangyuxin87/PERT)
+
    
  
 
