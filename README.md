@@ -15,9 +15,16 @@ This repository contains a paper collection of recent works for visual text proc
 ##
 
 ### Text Image Super-resolution
-+ [ANYTEXT: MULTILINGUAL VISUAL TEXT GENERATION AND EDITING](https://arxiv.org/abs/2311.03054) (Nov, 2023)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.03054)
-  [![Star](https://img.shields.io/github/stars/tyxsspa/AnyText.svg?style=social&label=Star)](https://github.com/tyxsspa/AnyText)
++ Boosting Optical Character Recognition: A Super-Resolution Approach (**2015 arxiv**) [paper](https://arxiv.org/pdf/1506.02211.pdf)
++ Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (**2017 CVPR**) [paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.html)
++ TextSR: Content-Aware Text Super-Resolution Guided by Recognition (**2019 arxiv**) [paper](https://arxiv.org/pdf/1909.07113.pdf) [code](https://github.com/xieenze/TextSR)
++ Selective Super-Resolution for Scene Text Images (**2019 ICDAR**) [paper](https://ieeexplore.ieee.org/abstract/document/8977974)
++ Text-Attentional Conditional Generative Adversarial Network for Super-Resolution of Text Images (**2019 ICME**) [paper](https://ieeexplore.ieee.org/abstract/document/8784962)
++ Collaborative Deep Learning for Super-Resolving Blurry Text Images (**2020 TCI**) [paper](https://ieeexplore.ieee.org/abstract/document/9040515)
++ PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit (**2020 ECCV**) [paper] (https://link.springer.com/chapter/10.1007/978-3-030-58555-6_10)
++ Scene Text Image Super-Resolution in the Wild (**2020 ECCV**) [paper](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_38) [code](github.com/JasonBoy1/TextZoom)
+
+
 
 + [TextDiffuser: Diffusion Models as Text Painters](https://arxiv.org/abs/2305.10855) (May, 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10855)
