@@ -1,9 +1,9 @@
 # Suvery-of-Visual-Text-Processing
 The official project of paper "Delving into Text Features: A Comprehensive Review on Visual Text Processing"
 
-![LOGO](imgs/logo.png)
-# Recommendations of Diffusion for Text-Image
-This repository contains a paper collection of recent diffusion models for text-image generation tasks.
+![LOGO](logo.png)
+
+This repository contains a paper collection of recent works for visual text processing tasks.
 
 ## 📖 Table of Contents 👀
 - [Text Image Super-resolution](#Text Image Super-resolution)
