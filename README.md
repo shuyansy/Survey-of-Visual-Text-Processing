@@ -93,21 +93,31 @@ This repository contains a paper collection of recent works for visual text proc
  
 
 ### Scene Text Editing
-+ [DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior](https://arxiv.org/abs/2308.15070) (Aug. 2023)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.15070)
-  [![Project](https://img.shields.io/badge/Project-9cf)](https://0x3f3f3f3fun.github.io/projects/diffbir/)
-  [![Star](https://img.shields.io/github/stars/XPixelGroup/DiffBIR.svg?style=social&label=Star)](https://github.com/XPixelGroup/DiffBIR)
++ Scene text magnifier (**2019 ICDAR**) [paper](https://arxiv.org/pdf/1907.00693.pdf)
++ Selective style transfer for text (**2019 ICDAR**) [paper][https://arxiv.org/pdf/1906.01466.pdf] [code](https://github.com/furkanbiten/SelectiveTextStyleTransfer)
++ Editing text in the wild (**2019 ACM MM**) [paper](https://arxiv.org/pdf/1908.03047.pdf) [code](https://github.com/youdao-ai/SRNet)
++ Swaptext: Image based texts transfer in scenes (**2020 CVPR**) [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_SwapText_Image_Based_Texts_Transfer_in_Scenes_CVPR_2020_paper.pdf)
++ Scene text transfer for cross-language (**2021 ICIG**) [paper](https://link.springer.com/chapter/10.1007/978-3-030-87355-4_46)
++ Mask-guided gan for robust text editing in the scene (**2021 Neurocomputing**) [paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122100299X)
++ Stefann: scene text editor using font adaptive neural network (**2020 CVPR**) [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Roy_STEFANN_Scene_Text_Editor_Using_Font_Adaptive_Neural_Network_CVPR_2020_paper.pdf)
++ Deep learning-based forgery attack on document images (**2021 TIP**) [paper](https://arxiv.org/pdf/2102.00653)
++ Strive: Scene text replacement in videos (**2021 ICCV**) [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/G_STRIVE_Scene_Text_Replacement_in_Videos_ICCV_2021_paper.pdf)
++ RewriteNet: Reliable Scene Text Editing with Implicit Decomposition of Text Contents and Styles (**2022 CVPRW**) [paper](https://arxiv.org/pdf/2107.11041.pdf) [code](https://github.com/clovaai/rewritenet)
++ Fast: Font-agnostic scene text editing (**2023 arxiv**) [paper](https://arxiv.org/abs/2308.02905)
++ Letter Embedding Guidance Diffusion Model for Scene Text Editing (**2023 ICME**) [paper](http://ercdm.sdu.edu.cn/__local/1/D6/7E/7C1DDDEFCDC240906F00E254B02_354743F8_1C042B.pdf)
++ Exploring stroke-level modifications for scene text editing (**2023 AAAI**) [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25305/25077) [code](https://github.com/qqqyd/MOSTEL) 
++ Textstylebrush: Transfer of text aesthetics from a single example (**2023 TPAMI**) [paper](https://arxiv.org/pdf/2106.08385.pdf)
++ Self-Supervised Cross-Language Scene Text Editing (**2023 ACM MM**) [paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612174)
++ Scene style text editing (**2023 arxiv**) [paper](https://arxiv.org/pdf/2304.10097.pdf)
++ Improving Diffusion Models for Scene Text Editing with Dual Encoders (**2023 arxiv**) [paper](https://arxiv.org/pdf/2304.05568.pdf) [code](https://github.com/UCSB-NLP-Chang/DiffSTE)
++ Towards scene-text to scene-text translation (**2023 arxiv**) [paper](https://arxiv.org/pdf/2308.03024.pdf)
++ DiffUTE: Universal Text Editing Diffusion Model (**2023 NIPS**) [paper](https://arxiv.org/abs/2305.10825) [code](https://github.com/chenhaoxing/DiffUTE)
++ On manipulating scene text in the wild with diffusion models (**2024 WACV**) [paper](https://arxiv.org/pdf/2311.00734.pdf) 
 
-+ [TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution](https://arxiv.org/abs/2308.06743) (Aug., 2023)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.06743)
-  [![Star](https://img.shields.io/github/stars/Lenubolim/TextDiff.svg?style=social&label=Star)](https://github.com/Lenubolim/TextDiff)
 
-+ [DocDiff: Document Enhancement via Residual Diffusion Models](https://arxiv.org/abs/2305.03892) (ACMMM2023)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.03892)
-  [![Star](https://img.shields.io/github/stars/Royalvice/DocDiff.svg?style=social&label=Star)](https://github.com/Royalvice/DocDiff)
 
-+ [STIRER: A Unified Model for Low-Resolution Scene Text Image Recovery and Recognition](https://github.com/zhaominyiz/STIRER) (ACMMM2023)  
-  [![Star](https://img.shields.io/github/stars/zhaominyiz/STIRER.svg?style=social&label=Star)](https://github.com/zhaominyiz/STIRER)
+
+
 
 ### Scene Text Generation
 + [On Manipulating Scene Text in the Wild with Diffusion Models](https://arxiv.org/abs/2311.00734) (WACV2024)  
