@@ -65,8 +65,9 @@ This repository contains a paper collection of recent works for visual text proc
   [![Demo](https://img.shields.io/badge/Demo-8A2BE2)](https://huggingface.co/spaces/tmaham/DS-Fusion-Express)
 
 ### Scene Text Removal
-+ [Optical Character Recognition with Segment Anything (OCR-SAM)](https://github.com/yeungchenwa/OCR-SAM) (Apr. 2023)  
-  [![Star](https://img.shields.io/github/stars/yeungchenwa/OCR-SAM.svg?style=social&label=Star)](https://github.com/yeungchenwa/OCR-SAM)
++ Image-to-Image Translation with Conditional Adversarial Networks (2017 CVPR)  [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)
+   
+ 
 
 ### Scene Text Editing
 + [DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior](https://arxiv.org/abs/2308.15070) (Aug. 2023)  
