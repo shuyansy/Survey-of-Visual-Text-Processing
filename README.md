@@ -21,7 +21,7 @@ This repository contains a paper collection of recent works for visual text proc
 + Selective Super-Resolution for Scene Text Images (**2019 ICDAR**) [paper](https://ieeexplore.ieee.org/abstract/document/8977974)
 + Text-Attentional Conditional Generative Adversarial Network for Super-Resolution of Text Images (**2019 ICME**) [paper](https://ieeexplore.ieee.org/abstract/document/8784962)
 + Collaborative Deep Learning for Super-Resolving Blurry Text Images (**2020 TCI**) [paper](https://ieeexplore.ieee.org/abstract/document/9040515)
-+ PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit (**2020 ECCV**) [paper] (https://link.springer.com/chapter/10.1007/978-3-030-58555-6_10)
++ PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit (**2020 ECCV**) [paper](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_10)
 + Scene Text Image Super-Resolution in the Wild (**2020 ECCV**) [paper](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_38) [code](github.com/JasonBoy1/TextZoom)
 
 
