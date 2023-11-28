@@ -27,6 +27,12 @@ This repository contains a paper collection of recent works for visual text proc
 + Scene Text Image Super-Resolution via Parallelly Contextual Attention Network (**2021 CVPR**) [paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475469)
 + Text Prior Guided Scene Text Image Super-Resolution (**2021 TIP**) [paper](https://ieeexplore.ieee.org/abstract/document/10042236) [code](https://github.com/mjq11302010044/TPGSR)
 + A text attention network for spatial deformation robust scene text image super-resolution  (**2022 CVPR**) [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_A_Text_Attention_Network_for_Spatial_Deformation_Robust_Scene_Text_CVPR_2022_paper.pdf) [code](https://github. com/mjq11302010044/TATT)
++ C3-STISR: Scene Text Image Super-resolution with Triple Clues (**2022 IJCAI**) [paper]
++ Text gestalt: Stroke-aware scene text image super-resolution (**2022 AAAI**) [paper](https://ojs.aaai.org/index.php/AAAI/article/download/19904/19663) [code](https://github.com/FudanVI/FudanOCR/tree/main/text-gestalt)
++ A Benchmark for Chinese-English Scene Text Image Super-Resolution (**2023 ICCV**) [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Ma_A_Benchmark_for_Chinese-English_Scene_Text_Image_Super-Resolution_ICCV_2023_paper.html) [code](https://github.com/mjq11302010044/Real-CE)
++ Text Image Super-Resolution Guided by Text Structure and Embedding Priors (**2023 ACM MM**) [paper](https://dl.acm.org/doi/abs/10.1145/3595924)
++ Improving Scene Text Image Super-Resolution via Dual Prior Modulation Network (**2023 AAAI**) [paper](https://arxiv.org/pdf/2302.10414.pdf) [code](https://github.com/jdfxzzy/DPMN)
++ Learning Generative Structure Prior for Blind Text Image Super-Resolution (**2023 CVPR**) [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Learning_Generative_Structure_Prior_for_Blind_Text_Image_Super-Resolution_CVPR_2023_paper.html) [code](https://github.com/csxmli2016/MARCONet)
 + 
 
 
