@@ -23,6 +23,11 @@ This repository contains a paper collection of recent works for visual text proc
 + Collaborative Deep Learning for Super-Resolving Blurry Text Images (**2020 TCI**) [paper](https://ieeexplore.ieee.org/abstract/document/9040515)
 + PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit (**2020 ECCV**) [paper](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_10)
 + Scene Text Image Super-Resolution in the Wild (**2020 ECCV**) [paper](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_38) [code](github.com/JasonBoy1/TextZoom)
++ Scene Text Telescope: Text-Focused Scene Image Super-Resolution (**2021 CVPR**) [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Scene_Text_Telescope_Text-Focused_Scene_Image_Super-Resolution_CVPR_2021_paper.pdf)
++ Scene Text Image Super-Resolution via Parallelly Contextual Attention Network (**2021 CVPR**) [paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475469)
++ Text Prior Guided Scene Text Image Super-Resolution (**2021 TIP**) [paper](https://ieeexplore.ieee.org/abstract/document/10042236) [code](https://github.com/mjq11302010044/TPGSR)
++ A text attention network for spatial deformation robust scene text image super-resolution  (**2022 CVPR**) [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_A_Text_Attention_Network_for_Spatial_Deformation_Robust_Scene_Text_CVPR_2022_paper.pdf) [code](https://github. com/mjq11302010044/TATT)
++ 
 
 
 
