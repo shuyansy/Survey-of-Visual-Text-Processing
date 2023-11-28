@@ -98,7 +98,7 @@ This repository contains a paper collection of recent works for visual text proc
 
 ### Scene Text Editing
 + Scene text magnifier (**2019 ICDAR**) [paper](https://arxiv.org/pdf/1907.00693.pdf)
-+ Selective style transfer for text (**2019 ICDAR**) [paper][https://arxiv.org/pdf/1906.01466.pdf] [code](https://github.com/furkanbiten/SelectiveTextStyleTransfer)
++ Selective style transfer for text (**2019 ICDAR**) [paper](https://arxiv.org/pdf/1906.01466.pdf) [code](https://github.com/furkanbiten/SelectiveTextStyleTransfer)
 + Editing text in the wild (**2019 ACM MM**) [paper](https://arxiv.org/pdf/1908.03047.pdf) [code](https://github.com/youdao-ai/SRNet)
 + Swaptext: Image based texts transfer in scenes (**2020 CVPR**) [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_SwapText_Image_Based_Texts_Transfer_in_Scenes_CVPR_2020_paper.pdf)
 + Scene text transfer for cross-language (**2021 ICIG**) [paper](https://link.springer.com/chapter/10.1007/978-3-030-87355-4_46)
