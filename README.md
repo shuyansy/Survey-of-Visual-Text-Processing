@@ -60,13 +60,28 @@ This repository contains a paper collection of recent works for visual text proc
   
 
 ### Text Image Denosing
-+ [ControlNet on Text Effect](https://mp.weixin.qq.com/s/rvpU4XhToldoec_bABeXJw) (Jul., 2023)
-
-+ [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://arxiv.org/abs/2303.09604) (ICCV2023)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09604)
-  [![Project](https://img.shields.io/badge/Project-9cf)](https://ds-fusion.github.io/)
-  [![Star](https://img.shields.io/github/stars/tmaham/DS-Fusion.svg?style=social&label=Star)](https://github.com/tmaham/DS-Fusion)
-  [![Demo](https://img.shields.io/badge/Demo-8A2BE2)](https://huggingface.co/spaces/tmaham/DS-Fusion-Express)
++ Shading Removal of Illustrated Documents (**2013 ICDAR**) [paper](https://link.springer.com/chapter/10.1007/978-3-642-39094-4_35)
++ Nonparametric illumination correction for scanned document images via convex hulls (**2013 TPAMI**) [paper](https://ieeexplore.ieee.org/abstract/document/6361405)
++ Removing shadows from images of documents (**2016 ACCV**) [paper](https://link.springer.com/chapter/10.1007/978-3-319-54187-7_12)
++ Document enhancement using visibility detection (**2018 CVPR**) [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kligler_Document_Enhancement_Using_CVPR_2018_paper.pdf)
++ Water-Filling: An Efficient Algorithm for Digitized Document Shadow Removal (**2018 ACCV**) [paper](https://link.springer.com/chapter/10.1007/978-3-030-20887-5_25)
++ Learning to Clean: A GAN Perspective (**2018 ACCVW**) [paper](https://link.springer.com/chapter/10.1007/978-3-030-21074-8_14)
++ Deeperase: Weakly supervised ink artifact removal in document text images (**2020 WACV**) [paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Qi_DeepErase_Weakly_Supervised_Ink_Artifact_Removal_in_Document_Text_Images_WACV_2020_paper.pdf)
++ From Shadow Segmentation to Shadow Removal (**2020 ECCV**) [paper](https://link.springer.com/chapter/10.1007/978-3-030-58621-8_16)
++ BEDSR-Net: A Deep Shadow Removal Network From a Single Document Image (**2020 CVPR**) [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_BEDSR-Net_A_Deep_Shadow_Removal_Network_From_a_Single_Document_CVPR_2020_paper.pdf)
++ Light-Weight Document Image Cleanup Using Perceptual Loss (**2021 ICDAR**) [paper](https://link.springer.com/chapter/10.1007/978-3-030-86334-0_16)
++ RecycleNet: An Overlapped Text Instance Recovery Approach (**2021 ACM MM**) [paper](https://dl.acm.org/doi/abs/10.1145/3474085.3481536)
++ End-to-End Unsupervised Document Image Blind Denoising (**2021 ICCV**) [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Gangeh_End-to-End_Unsupervised_Document_Image_Blind_Denoising_ICCV_2021_paper.pdf)
++ Bijective mapping network for shadow removal (**2022 CVPR**) [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Bijective_Mapping_Network_for_Shadow_Removal_CVPR_2022_paper.pdf)
++ Style-guided shadow removal (**2022 ECCV**) [paper](https://link.springer.com/chapter/10.1007/978-3-031-19800-7_21) [code](https://github.com/jinwan1994/SG-ShadowNet)
++ UDoc-GAN: Unpaired Document Illumination Correction with Background Light Prior (**2022 ACM MM**) [paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547916) [code](https://github.com/harrytea/UDoc-GAN)
++ LP-IOANet: Efficient High Resolution Document Shadow Removal (**2023 ICASSP**) [paper](https://ieeexplore.ieee.org/abstract/document/10095920)
++ Shadow Removal of Text Document Images Using Background Estimation and Adaptive Text Enhancement (**2023 ICASSP**) [paper](https://ieeexplore.ieee.org/abstract/document/10096115)
++ Mask-Guided Stamp Erasure for Real Document Image (**2023 ICME**) [paper](https://ieeexplore.ieee.org/abstract/document/10219771)
++ Document Image Shadow Removal Guided by Color-Aware Background (**2023 CVPR**) [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Document_Image_Shadow_Removal_Guided_by_Color-Aware_Background_CVPR_2023_paper.pdf)
++ DocDiff: Document Enhancement via Residual Diffusion Models (**2023 ACM MM**) [paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611730) [code](https://github.com/Royalvice/DocDiff https://github.com/Royalvice/DocDiff)
++ 
++ 
 
 ### Scene Text Removal
 + Image-to-Image Translation with Conditional Adversarial Networks (**2017 CVPR**)  [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)
