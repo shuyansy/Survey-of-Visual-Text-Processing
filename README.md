@@ -79,9 +79,9 @@ This repository contains a paper collection of recent works for visual text proc
 + Shadow Removal of Text Document Images Using Background Estimation and Adaptive Text Enhancement (**2023 ICASSP**) [paper](https://ieeexplore.ieee.org/abstract/document/10096115)
 + Mask-Guided Stamp Erasure for Real Document Image (**2023 ICME**) [paper](https://ieeexplore.ieee.org/abstract/document/10219771)
 + Document Image Shadow Removal Guided by Color-Aware Background (**2023 CVPR**) [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Document_Image_Shadow_Removal_Guided_by_Color-Aware_Background_CVPR_2023_paper.pdf)
-+ DocDiff: Document Enhancement via Residual Diffusion Models (**2023 ACM MM**) [paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611730) [code](https://github.com/Royalvice/DocDiff https://github.com/Royalvice/DocDiff)
-+ 
-+ 
++ DocDiff: Document Enhancement via Residual Diffusion Models (**2023 ACM MM**) [paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611730) [code](https://github.com/Royalvice/DocDiff)
+
+
 
 ### Scene Text Removal
 + Image-to-Image Translation with Conditional Adversarial Networks (**2017 CVPR**)  [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)
@@ -134,16 +134,24 @@ This repository contains a paper collection of recent works for visual text proc
 + On manipulating scene text in the wild with diffusion models (**2024 WACV**) [paper](https://arxiv.org/pdf/2311.00734.pdf) 
 
 
-
-
-
-
 ### Scene Text Generation
 + Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition (**2014 arxiv**) [paper](https://arxiv.org/pdf/1406.2227.pdf)
 + Synthetic data for text localisation in natural images (**2016 CVPR**) [paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Gupta_Synthetic_Data_for_CVPR_2016_paper.pdf) [paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Gupta_Synthetic_Data_for_CVPR_2016_paper.pdf) [code](https://github.com/ankush-me/SynthText)
 + Text detection in traffic informatory signs using synthetic data (**2017 ICDAR**) [paper](https://ieeexplore.ieee.org/abstract/document/8270075)
 + Verisimilar image synthesis for accurate detection and recognition of texts in scenes (**2018 ECCV**) [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf)  [code](https://github.com/GodOfSmallThings/Verisimilar-Image-Synthesis-for-Accurate-Detection-and-Recognition-of-Texts-in-Scenes)
++ Spatial Fusion GAN for Image Synthesis (**2019 CVPR**) [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhan_Spatial_Fusion_GAN_for_Image_Synthesis_CVPR_2019_paper.pdf)
++ Learning to draw text in natural images with conditional adversarial networks (**2019 IJCAI**) [paper](https://www.ijcai.org/Proceedings/2019/0101.pdf)
++ ScrabbleGAN: Semi-Supervised Varying Length Handwritten Text Generation (**2020 CVPR**) [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fogel_ScrabbleGAN_Semi-Supervised_Varying_Length_Handwritten_Text_Generation_CVPR_2020_paper.pdf)
++ SynthText3D: synthesizing scene text images from 3D virtual worlds (**2020 Science China Information Sciences**) [paper](https://link.springer.com/article/10.1007/s11432-019-2737-0)
++ UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World (***2020 arxiv***) [paper](https://arxiv.org/pdf/2003.10608.pdf) [code](https://github.com/Jyouhou/UnrealText/)
 + Synthtiger: Synthetic text image generator towards better text recognition models (**2021 ICDAR**) [paper](https://link.springer.com/chapter/10.1007/978-3-030-86337-1_8) [code](https://github.com/clovaai/synthtiger)
-+  
++ Vector Quantized Diffusion Model for Text-to-Image Synthesis (**2022 CVPR**) [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.pdf)
++ Photorealistic text-to-image diffusion models with deep language understanding (**2022 NIPS**) [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/ec795aeadae0b7d230fa35cbaf04c041-Paper-Conference.pdf)
++ eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers (**2022 arxiv**) [paper](https://arxiv.org/pdf/2211.01324.pdf) [code](https://deepimagination.cc/eDiff-I/)
++ Character-Aware Models Improve Visual Text Rendering (**2022 arxiv**) [paper](https://arxiv.org/pdf/2212.10562.pdf)
++  Deepfloyd (**2023**) [code](https://github.com/deep-floyd/if)
++  GlyphDraw: Seamlessly Rendering Text with Intricate Spatial Structures in Text-to-Image Generation (**2023 arxiv**) [paper](https://arxiv.org/pdf/2303.17870.pdf) [code](https://1073521013.github.io/glyph-draw.github.io/)
++  TextDiffuser: Diffusion Models as Text Painters (**2023 NIPS**) [paper](https://arxiv.org/pdf/2305.10855.pdf) [code](https://aka.ms/textdiffuser)
++  Glyphcontrol: Glyph conditional control for visual text generation (**2023 NIPS**) [paper](https://arxiv.org/pdf/2305.10855.pdf) [code](https://aka.ms/textdiffuser)
 
 
