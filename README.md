@@ -33,45 +33,22 @@ This repository contains a paper collection of recent works for visual text proc
 + Text Image Super-Resolution Guided by Text Structure and Embedding Priors (**2023 ACM MM**) [paper](https://dl.acm.org/doi/abs/10.1145/3595924)
 + Improving Scene Text Image Super-Resolution via Dual Prior Modulation Network (**2023 AAAI**) [paper](https://arxiv.org/pdf/2302.10414.pdf) [code](https://github.com/jdfxzzy/DPMN)
 + Learning Generative Structure Prior for Blind Text Image Super-Resolution (**2023 CVPR**) [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Learning_Generative_Structure_Prior_for_Blind_Text_Image_Super-Resolution_CVPR_2023_paper.html) [code](https://github.com/csxmli2016/MARCONet)
-+ 
 
-
-
-+ [TextDiffuser: Diffusion Models as Text Painters](https://arxiv.org/abs/2305.10855) (May, 2023)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10855)
-  [![Project](https://img.shields.io/badge/Project-9cf)](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
-  [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm/tree/master/textdiffuser)
-  [![Demo](https://img.shields.io/badge/Demo-8A2BE2)](https://huggingface.co/spaces/JingyeChen22/TextDiffuser)
-
-+ [GlyphControl: Glyph Conditional Control for Visual Text Generation](https://arxiv.org/abs/2305.18259) (May, 2023)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18259)
-  [![Star](https://img.shields.io/github/stars/AIGText/GlyphControl-release.svg?style=social&label=Star)](https://github.com/AIGText/GlyphControl-release)
-  [![Demo](https://img.shields.io/badge/Demo-8A2BE2)](https://huggingface.co/spaces/AIGText/GlyphControl)
-
-+ [IF](https://github.com/deep-floyd/IF) (Apr., 2023)  
-  [![Star](https://img.shields.io/github/stars/deep-floyd/IF.svg?style=social&label=Star)](https://github.com/deep-floyd/IF)
-  [![Demo](https://img.shields.io/badge/Demo-8A2BE2)](https://huggingface.co/spaces/DeepFloyd/IF)
-
-+ [GlyphDraw: Seamlessly Rendering Text with Intricate Spatial Structures in Text-to-Image Generation](https://arxiv.org/abs/2303.17870) (Mar., 2023)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17870)
-  [![Project](https://img.shields.io/badge/Project-9cf)](https://1073521013.github.io/glyph-draw.github.io/)
-  [![Star](https://img.shields.io/github/stars/OPPO-Mente-Lab/GlyphDraw.svg?style=social&label=Star)](https://github.com/OPPO-Mente-Lab/GlyphDraw)
-
-+ [Character-aware models improve visual text rendering](https://arxiv.org/abs/2212.10562) (Dec., 2022)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.10562)
-
-+ [eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers](https://arxiv.org/abs/2211.01324) (Nov., 2022)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.01324)
-  [![Project](https://img.shields.io/badge/Project-9cf)](https://deepimagination.cc/eDiff-I/)
-
-+ [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487) (May, 2022)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11487)
-  [![Project](https://img.shields.io/badge/Project-9cf)](https://imagen.research.google/)
 
 ### Document Image Dewarping
++ A Fast Page Outline Detection and Dewarping Method Based on Iterative Cut and Adaptive Coordinate Transform (**2019 ICDARW**) [paper](https://ieeexplore.ieee.org/abstract/document/8892891)
++ DocUNet: Document Image Unwarping via a Stacked U-Net （**2018 CVPR**）[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ma_DocUNet_Document_Image_CVPR_2018_paper.pdf)
++ DewarpNet: Single-Image Document Unwarping With Stacked 3D and 2D Regression Networks (**2019 ICCV**) [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Das_DewarpNet_Single-Image_Document_Unwarping_With_Stacked_3D_and_2D_Regression_ICCV_2019_paper.pdf) [code](https://www.cs.stonybrook.edu/%E2%88%BCcvl/dewarpnet.html)
++ + Dewarping Document Image by Displacement Flow Estimation with Fully Convolutional Network (**2020 IAPR**) [paper](https://arxiv.org/pdf/2104.06815)
++ Revisiting Document Image Dewarping by Grid Regularization (**2022 CVPR**) [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Revisiting_Document_Image_Dewarping_by_Grid_Regularization_CVPR_2022_paper.pdf)
++ Fourier Document Restoration for Robust Document Dewarping and Recognition ((**2022 CVPR**) [paper])[https://openaccess.thecvf.com/content/CVPR2022/html/Xue_Fourier_Document_Restoration_for_Robust_Document_Dewarping_and_Recognition_CVPR_2022_paper.html]
++ Learning an Isometric Surface Parameterization for Texture Unwrapping (**2022 ECCV**) [paper](https://link.springer.com/chapter/10.1007/978-3-031-19836-6_33) [code](https://github.com/cvlab-stonybrook/Iso-UVField) (**2023 arxiv**) [paper](https://arxiv.org/pdf/2306.05749.pdf) 
++ DocAligner: Annotating Real-world Photographic Document Images by Simply Taking Pictures
+
 + [Diff-Font: Diffusion Model for Robust One-Shot Font Generation](https://arxiv.org/abs/2212.05895) (Dec., 2022)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.05895)
   [![Star](https://img.shields.io/github/stars/Hxyz-123/Font-diff.svg?style=social&label=Star)](https://github.com/Hxyz-123/Font-diff)
+  
 
 ### Text Image Denosing
 + [ControlNet on Text Effect](https://mp.weixin.qq.com/s/rvpU4XhToldoec_bABeXJw) (Jul., 2023)
