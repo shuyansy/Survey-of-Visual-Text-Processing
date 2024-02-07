@@ -158,14 +158,6 @@ This repository contains a paper collection of recent works for visual text proc
 
 
 ### Cite
-```model/meter_data```
-
-## Demo 
-You can run a demo script for a single image inference.
-
-```python predict_online.py```
-
-## Paper
 If you are interested in it, please star our project! And cite our paper as follows:
 ```
 @misc{shu2024visual,
