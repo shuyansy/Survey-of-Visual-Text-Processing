@@ -1,5 +1,5 @@
 # Survey-of-Visual-Text-Processing
-The official project of paper "Delving into Text Features: A Comprehensive Review on Visual Text Processing"
+The official project of paper "Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing"
 
 ![LOGO](logo.png)
 
@@ -153,5 +153,29 @@ This repository contains a paper collection of recent works for visual text proc
 +  GlyphDraw: Seamlessly Rendering Text with Intricate Spatial Structures in Text-to-Image Generation (**2023 arxiv**) [paper](https://arxiv.org/pdf/2303.17870.pdf) [code](https://1073521013.github.io/glyph-draw.github.io/)
 +  TextDiffuser: Diffusion Models as Text Painters (**2023 NIPS**) [paper](https://arxiv.org/pdf/2305.10855.pdf) [code](https://aka.ms/textdiffuser)
 +  Glyphcontrol: Glyph conditional control for visual text generation (**2023 NIPS**) [paper](https://arxiv.org/pdf/2305.10855.pdf) [code](https://aka.ms/textdiffuser)
+
+
+
+
+### Cite
+```model/meter_data```
+
+## Demo 
+You can run a demo script for a single image inference.
+
+```python predict_online.py```
+
+## Paper
+If you are interested in it, please star our project! And cite our paper as follows:
+```
+@misc{shu2024visual,
+      title={Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing}, 
+      author={Yan Shu and Weichao Zeng and Zhenhang Li and Fangmin Zhao and Yu Zhou},
+      year={2024},
+      eprint={2402.03082},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 
