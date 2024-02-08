@@ -160,13 +160,11 @@ This repository contains a paper collection of recent works for visual text proc
 ### Cite
 If you are interested in it, please star our project! And cite our paper as follows:
 ```
-@misc{shu2024visual,
-      title={Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing}, 
-      author={Yan Shu and Weichao Zeng and Zhenhang Li and Fangmin Zhao and Yu Zhou},
-      year={2024},
-      eprint={2402.03082},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{shu2024visual,
+  title={Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing},
+  author={Shu, Yan and Zeng, Weichao and Li, Zhenhang and Zhao, Fangmin and Zhou, Yu},
+  journal={arXiv preprint arXiv:2402.03082},
+  year={2024}
 }
 ```
 
