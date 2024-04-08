@@ -80,7 +80,7 @@ This repository contains a paper collection of recent works for visual text proc
 + Mask-Guided Stamp Erasure for Real Document Image (**2023 ICME**) [paper](https://ieeexplore.ieee.org/abstract/document/10219771)
 + Document Image Shadow Removal Guided by Color-Aware Background (**2023 CVPR**) [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Document_Image_Shadow_Removal_Guided_by_Color-Aware_Background_CVPR_2023_paper.pdf)
 + DocDiff: Document Enhancement via Residual Diffusion Models (**2023 ACM MM**) [paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611730) [code](https://github.com/Royalvice/DocDiff)
-
++ DocNLC: ADocument Image Enhancement Framework with Normalized and Latent Contrastive Representation for Multiple Degradations (**2024 AAAI**) [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28366) [code](https://github.com/RylonW/DocNLC)
 
 
 ### Scene Text Removal
