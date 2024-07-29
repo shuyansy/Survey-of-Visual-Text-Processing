@@ -132,7 +132,7 @@ This repository contains a paper collection of recent works for visual text proc
 + Towards scene-text to scene-text translation (**2023 arxiv**) [paper](https://arxiv.org/pdf/2308.03024.pdf)
 + DiffUTE: Universal Text Editing Diffusion Model (**2023 NIPS**) [paper](https://arxiv.org/abs/2305.10825) [code](https://github.com/chenhaoxing/DiffUTE)
 + On manipulating scene text in the wild with diffusion models (**2024 WACV**) [paper](https://arxiv.org/pdf/2311.00734.pdf) 
-
++ AnyText: Multilingual Visual Text Generation And Editing (**2024 ICLR**) [paper](https://arxiv.org/pdf/2311.03054)
 
 ### Scene Text Generation
 + Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition (**2014 arxiv**) [paper](https://arxiv.org/pdf/1406.2227.pdf)
@@ -153,7 +153,7 @@ This repository contains a paper collection of recent works for visual text proc
 +  GlyphDraw: Seamlessly Rendering Text with Intricate Spatial Structures in Text-to-Image Generation (**2023 arxiv**) [paper](https://arxiv.org/pdf/2303.17870.pdf) [code](https://1073521013.github.io/glyph-draw.github.io/)
 +  TextDiffuser: Diffusion Models as Text Painters (**2023 NIPS**) [paper](https://arxiv.org/pdf/2305.10855.pdf) [code](https://aka.ms/textdiffuser)
 +  Glyphcontrol: Glyph conditional control for visual text generation (**2023 NIPS**) [paper](https://arxiv.org/pdf/2305.10855.pdf) [code](https://aka.ms/textdiffuser)
-
++ AnyText: Multilingual Visual Text Generation And Editing (**2024 ICLR**) [paper](https://arxiv.org/pdf/2311.03054)
 
 
 
