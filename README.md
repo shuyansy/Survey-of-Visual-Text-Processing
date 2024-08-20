@@ -1,5 +1,5 @@
 # Survey-of-Visual-Text-Processing
-The official project of paper "Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing"
+The official project of paper "[Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing](https://arxiv.org/abs/2402.03082)"
 
 ![LOGO](logo.png)
 
