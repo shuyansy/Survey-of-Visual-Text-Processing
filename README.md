@@ -84,7 +84,7 @@ This repository contains a paper collection of recent works for visual text proc
 
 
 ### Scene Text Removal
-+ Image-to-Image Translation with Conditional Adversarial Networks (**2017 CVPR**)  [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)
++ <font color=Gray>Image-to-Image Translation with Conditional Adversarial Networks (**2017 CVPR**)</font>  [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)
 + Scene text eraser (**2017 ICDAR**) [paper](https://arxiv.org/pdf/1705.02772.pdf)
 + Automatic Semantic Content Removal by Learning to Neglect (**2018 BMVC**) [paper](https://arxiv.org/pdf/1807.07696.pdf)
 + Ensnet: Ensconce text in the wild (**2019 AAAI**) [paper](https://ojs.aaai.org/index.php/AAAI/article/download/3859/3737) [code](https://github.com/HCIILAB/Scene-Text-Removal)
