@@ -154,7 +154,7 @@ This repository contains a paper collection of recent works for visual text proc
 +  TextDiffuser: Diffusion Models as Text Painters (**2023 NIPS**) [paper](https://arxiv.org/pdf/2305.10855.pdf) [code](https://aka.ms/textdiffuser)
 +  Glyphcontrol: Glyph conditional control for visual text generation (**2023 NIPS**) [paper](https://arxiv.org/pdf/2305.10855.pdf) [code](https://aka.ms/textdiffuser)
 + AnyText: Multilingual Visual Text Generation And Editing (**2024 ICLR**) [paper](https://arxiv.org/pdf/2311.03054) [code](https://github.com/tyxsspa/AnyText)
-
++ Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering (**2024 ECCV**) [paper](https://arxiv.org/pdf/2403.09622) [code](https://github.com/AIGText/Glyph-ByT5)
 
 
 ### Cite
