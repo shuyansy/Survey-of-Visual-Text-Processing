@@ -134,7 +134,6 @@ This repository contains a paper collection of recent works for visual text proc
 + On manipulating scene text in the wild with diffusion models (**2024 WACV**) [paper](https://arxiv.org/pdf/2311.00734.pdf) 
 + AnyText: Multilingual Visual Text Generation And Editing (**2024 ICLR**) [paper](https://arxiv.org/pdf/2311.03054) [code](https://github.com/tyxsspa/AnyText)
 + TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control (**2024 NIPS**) [paper](https://arxiv.org/pdf/2410.10133) [code](https://github.com/weichaozeng/TextCtrl)
-+ 
 + TextMaster: Universal Controllable Text Edit (**2024 arxiv**) [paper](https://arxiv.org/pdf/2410.09879)
 + AnyText2: Visual Text Generation and Editing With Customizable Attributes (**2024 arxiv**) [paper](https://arxiv.org/pdf/2411.15245) [code](https://github.com/tyxsspa/AnyText2)
 
