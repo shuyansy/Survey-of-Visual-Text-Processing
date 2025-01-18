@@ -133,6 +133,11 @@ This repository contains a paper collection of recent works for visual text proc
 + DiffUTE: Universal Text Editing Diffusion Model (**2023 NIPS**) [paper](https://arxiv.org/abs/2305.10825) [code](https://github.com/chenhaoxing/DiffUTE)
 + On manipulating scene text in the wild with diffusion models (**2024 WACV**) [paper](https://arxiv.org/pdf/2311.00734.pdf) 
 + AnyText: Multilingual Visual Text Generation And Editing (**2024 ICLR**) [paper](https://arxiv.org/pdf/2311.03054) [code](https://github.com/tyxsspa/AnyText)
++ TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control (**2024 NIPS**) [paper](https://arxiv.org/pdf/2410.10133) [code](https://github.com/weichaozeng/TextCtrl)
++ 
++ TextMaster: Universal Controllable Text Edit (**2024 arxiv**) [paper](https://arxiv.org/pdf/2410.09879)
++ AnyText2: Visual Text Generation and Editing With Customizable Attributes (**2024 arxiv**) [paper](https://arxiv.org/pdf/2411.15245) [code](https://github.com/tyxsspa/AnyText2)
+
 
 ### Scene Text Generation
 + Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition (**2014 arxiv**) [paper](https://arxiv.org/pdf/1406.2227.pdf)
@@ -149,12 +154,14 @@ This repository contains a paper collection of recent works for visual text proc
 + Photorealistic text-to-image diffusion models with deep language understanding (**2022 NIPS**) [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/ec795aeadae0b7d230fa35cbaf04c041-Paper-Conference.pdf)
 + eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers (**2022 arxiv**) [paper](https://arxiv.org/pdf/2211.01324.pdf) [code](https://deepimagination.cc/eDiff-I/)
 + Character-Aware Models Improve Visual Text Rendering (**2022 arxiv**) [paper](https://arxiv.org/pdf/2212.10562.pdf)
-+  Deepfloyd (**2023**) [code](https://github.com/deep-floyd/if)
-+  GlyphDraw: Seamlessly Rendering Text with Intricate Spatial Structures in Text-to-Image Generation (**2023 arxiv**) [paper](https://arxiv.org/pdf/2303.17870.pdf) [code](https://1073521013.github.io/glyph-draw.github.io/)
-+  TextDiffuser: Diffusion Models as Text Painters (**2023 NIPS**) [paper](https://arxiv.org/pdf/2305.10855.pdf) [code](https://aka.ms/textdiffuser)
-+  Glyphcontrol: Glyph conditional control for visual text generation (**2023 NIPS**) [paper](https://arxiv.org/pdf/2305.10855.pdf) [code](https://aka.ms/textdiffuser)
++ Deepfloyd (**2023**) [code](https://github.com/deep-floyd/if)
++ GlyphDraw: Seamlessly Rendering Text with Intricate Spatial Structures in Text-to-Image Generation (**2023 arxiv**) [paper](https://arxiv.org/pdf/2303.17870.pdf) [code](https://1073521013.github.io/glyph-draw.github.io/)
++ TextDiffuser: Diffusion Models as Text Painters (**2023 NIPS**) [paper](https://arxiv.org/pdf/2305.10855.pdf) [code](https://aka.ms/textdiffuser)
++ Glyphcontrol: Glyph conditional control for visual text generation (**2023 NIPS**) [paper](https://arxiv.org/pdf/2305.10855.pdf) [code](https://aka.ms/textdiffuser)
 + AnyText: Multilingual Visual Text Generation And Editing (**2024 ICLR**) [paper](https://arxiv.org/pdf/2311.03054) [code](https://github.com/tyxsspa/AnyText)
 + Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering (**2024 ECCV**) [paper](https://arxiv.org/pdf/2403.09622) [code](https://github.com/AIGText/Glyph-ByT5)
++ AnyText2: Visual Text Generation and Editing With Customizable Attributes (**2024 arxiv**) [paper](https://arxiv.org/pdf/2411.15245) [code](https://github.com/tyxsspa/AnyText2)
++ Type-R: Automatically Retouching Typos for Text-to-Image Generation (**2024 arxiv**) [paper](https://arxiv.org/pdf/2411.18159)
 
 
 ### Cite
