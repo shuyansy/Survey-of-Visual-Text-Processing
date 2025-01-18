@@ -133,7 +133,9 @@ This repository contains a paper collection of recent works for visual text proc
 + DiffUTE: Universal Text Editing Diffusion Model (**2023 NIPS**) [paper](https://arxiv.org/abs/2305.10825) [code](https://github.com/chenhaoxing/DiffUTE)
 + On manipulating scene text in the wild with diffusion models (**2024 WACV**) [paper](https://arxiv.org/pdf/2311.00734.pdf) 
 + AnyText: Multilingual Visual Text Generation And Editing (**2024 ICLR**) [paper](https://arxiv.org/pdf/2311.03054) [code](https://github.com/tyxsspa/AnyText)
++ Choose What You Need: Disentangled Representation Learning for Scene Text Recognition, Removal and Editing (**2024 CVPR) [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Choose_What_You_Need_Disentangled_Representation_Learning_for_Scene_Text_CVPR_2024_paper.pdf)
 + TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control (**2024 NIPS**) [paper](https://arxiv.org/pdf/2410.10133) [code](https://github.com/weichaozeng/TextCtrl)
++ How Control Information Influences Multilingual Text Image Generation and Editing? (**2024 NIPS**) [paper](https://arxiv.org/pdf/2407.11502) [code](https://github.com/CyrilSterling/TextGen)
 + TextMaster: Universal Controllable Text Edit (**2024 arxiv**) [paper](https://arxiv.org/pdf/2410.09879)
 + AnyText2: Visual Text Generation and Editing With Customizable Attributes (**2024 arxiv**) [paper](https://arxiv.org/pdf/2411.15245) [code](https://github.com/tyxsspa/AnyText2)
 
@@ -158,6 +160,7 @@ This repository contains a paper collection of recent works for visual text proc
 + TextDiffuser: Diffusion Models as Text Painters (**2023 NIPS**) [paper](https://arxiv.org/pdf/2305.10855.pdf) [code](https://aka.ms/textdiffuser)
 + Glyphcontrol: Glyph conditional control for visual text generation (**2023 NIPS**) [paper](https://arxiv.org/pdf/2305.10855.pdf) [code](https://aka.ms/textdiffuser)
 + AnyText: Multilingual Visual Text Generation And Editing (**2024 ICLR**) [paper](https://arxiv.org/pdf/2311.03054) [code](https://github.com/tyxsspa/AnyText)
++ How Control Information Influences Multilingual Text Image Generation and Editing? (**2024 NIPS**) [paper](https://arxiv.org/pdf/2407.11502) [code](https://github.com/CyrilSterling/TextGen)
 + First Creating Backgrounds Then Rendering Texts: A New Paradigm for Visual Text Blending (**2024 ECAI**) [paper](https://arxiv.org/pdf/2410.10168)
 + Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering (**2024 ECCV**) [paper](https://arxiv.org/pdf/2403.09622) [code](https://github.com/AIGText/Glyph-ByT5)
 + TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering (**2024 ECCV**) [paper](https://arxiv.org/pdf/2311.16465) [code](https://github.com/microsoft/unilm/tree/master/textdiffuser-2)
