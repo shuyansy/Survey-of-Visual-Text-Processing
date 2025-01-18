@@ -160,6 +160,7 @@ This repository contains a paper collection of recent works for visual text proc
 + AnyText: Multilingual Visual Text Generation And Editing (**2024 ICLR**) [paper](https://arxiv.org/pdf/2311.03054) [code](https://github.com/tyxsspa/AnyText)
 + First Creating Backgrounds Then Rendering Texts: A New Paradigm for Visual Text Blending (**2024 ECAI**) [paper](https://arxiv.org/pdf/2410.10168)
 + Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering (**2024 ECCV**) [paper](https://arxiv.org/pdf/2403.09622) [code](https://github.com/AIGText/Glyph-ByT5)
++ TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering (**2024 ECCV**) [paper](https://arxiv.org/pdf/2311.16465) [code](https://github.com/microsoft/unilm/tree/master/textdiffuser-2)
 + AnyText2: Visual Text Generation and Editing With Customizable Attributes (**2024 arxiv**) [paper](https://arxiv.org/pdf/2411.15245) [code](https://github.com/tyxsspa/AnyText2)
 + Type-R: Automatically Retouching Typos for Text-to-Image Generation (**2024 arxiv**) [paper](https://arxiv.org/pdf/2411.18159)
 
